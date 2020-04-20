@@ -33,5 +33,5 @@ You will be able to tune the reward function for the simulation by updating the 
 
 
 
-
+Use [this](https://www.mathworks.com/help/simulink/slref/thermal-model-of-a-house.html) link to set up base thermal model of the house from the MATLAB-SIMULINK website. 
 
