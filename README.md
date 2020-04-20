@@ -3,7 +3,7 @@ Comparing the performance of a DDPG Reinforcement learning model to control temp
 
 Find video of the training process [here](https://youtu.be/jCeMeUJZ0eQ).
 
-Find the Google Slides Link to the project presentation [here](https://drive.google.com/file/d/1J8X4L6R88ELukyMlByT263JKVz08Lw3e/view?usp=sharing)
+Find the Google Slides Link to the project presentation [here](https://drive.google.com/file/d/1J8X4L6R88ELukyMlByT263JKVz08Lw3e/view?usp=sharing).
 
 ## Thermostat controller controlling the temperature. 
 ![Thermostat controller](https://github.com/akmenon1996/TemperatureControl-ReinforcementLearning/blob/master/Images/thermostat_control.png) 
