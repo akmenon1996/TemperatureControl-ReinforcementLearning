@@ -1,7 +1,8 @@
 # TemperatureControl-ReinforcementLearning
 Comparing the performance of a DDPG Reinforcement learning model to control temperature with that of a PID and a thermostat controller. 
 
-Find video of the training process [here](https://youtu.be/jCeMeUJZ0eQ)
+Find video of the training process [here](https://youtu.be/jCeMeUJZ0eQ).
+
 Find the Google Slides Link to the project presentation [here](https://drive.google.com/file/d/1J8X4L6R88ELukyMlByT263JKVz08Lw3e/view?usp=sharing)
 
 ## Thermostat controller controlling the temperature. 
