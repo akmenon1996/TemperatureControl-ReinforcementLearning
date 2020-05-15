@@ -6,12 +6,15 @@ Find video of the training process [here](https://youtu.be/jCeMeUJZ0eQ).
 Find the Google Slides Link to the project presentation [here](https://drive.google.com/file/d/1moP0mpBkI0Wpdelc5cYwPyfpdzDA-wOs/view?usp=sharing).
 
 ## Thermostat controller controlling the temperature. 
+Mean Square Error - 32.7782
 ![Thermostat controller](https://github.com/akmenon1996/TemperatureControl-ReinforcementLearning/blob/master/Images/thermostat_control.png) 
 
 ## PID controller controlling the temperature. 
+Mean Square Error - 23.9247
 ![PID controller](https://github.com/akmenon1996/TemperatureControl-ReinforcementLearning/blob/master/Images/PID_Control.png) 
 
 ## DDPG RL Agent controller controlling the temperature. 
+Mean Square Error - 26.8667
 ![RL controller](https://github.com/akmenon1996/TemperatureControl-ReinforcementLearning/blob/master/Images/RL_Control.png) 
 
 
