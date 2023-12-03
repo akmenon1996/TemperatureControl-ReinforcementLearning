@@ -3,7 +3,7 @@ Comparing the performance of a DDPG Reinforcement learning model to control temp
 
 Find video of the training process [here](https://youtu.be/jCeMeUJZ0eQ).
 
-Find the Google Slides Link to the project presentation  [here]([https://youtu.be/jCeMeUJZ0eQ](https://drive.google.com/file/d/1moP0mpBkI0Wpdelc5cYwPyfpdzDA-wOs/view?usp=sharing](https://docs.google.com/presentation/d/1GeJfwOUY60LKVdWmeQffOwma1hy1oCtQ/edit#slide=id.p1)).
+Find the Google Slides Link to the project presentation  [here](https://docs.google.com/presentation/d/1GeJfwOUY60LKVdWmeQffOwma1hy1oCtQ/edit#slide=id.p1).
 
 ## Thermostat controller controlling the temperature. 
 Mean Square Error - 32.7782
